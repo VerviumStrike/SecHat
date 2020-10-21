@@ -14,6 +14,7 @@ SecHat is a chatting website generator programmed using Javascript, Html, CSS, S
 
  1. Recommend NodeJS version is 12 or above.
  2. Ngrok API is already configured but if you want to change it, its located in security/noO_Zpass/settings.json.
+ 3. Ngrok [website](https://ngrok.com/).
 
 # Dependancies
 
