@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>SecHat</title>
+    </head>
+    <body id="body">
+        <!-- CSS Importer -->
+        <link rel="stylesheet" href="resources/css/main.css">
+
+        <!-- Javascript Importer -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.1/socket.io.dev.js"></script>
+        <script src="./resources/js/main.js"></script>
+
+        <!-- SecHat Main -->
+        <div class="messages" id="messages"></div>
+
+        <div class="sechat-utility" id="sechat-utility">
+            <input type="text" id="s-u-message">
+            <button id="s-u-sendbutton" onclick="Send()">Send</button>
+        </div>
+    </body>
+</html>

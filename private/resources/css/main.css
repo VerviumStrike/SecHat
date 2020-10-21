@@ -1,0 +1,41 @@
+/* body */
+#body{
+    background-color: #131516;
+}
+
+/* sechat-utility */
+#sechat-utility{
+    background-color: #292C2F;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 1500px;
+    height: 40px;
+}
+
+#s-u-message{
+    color: #0984f7;
+    background-color: #232324;
+    margin: 0;
+    border-radius: 5px;
+    border: none;
+    position: fixed;
+    button: 5px;
+    left: 0px;
+    width: 1265px;
+    height: 40px;
+    font-size: 20px;
+}
+
+#s-u-sendbutton{
+    color: #0984f7;
+    background-color: #292C2F;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    margin: 0;
+    position: fixed;
+    bottom: 5px;
+    right: 20px;
+    font-size: 25px;
+}
